@@ -1,4 +1,4 @@
-EXES = getlimits
+EXES = getlimits stat
 
 all: $(EXES)
 
